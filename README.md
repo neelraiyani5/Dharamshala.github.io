@@ -1,6 +1,6 @@
 # dharamshala_app
 
-A new Flutter project.
+The Dharamshala Management App simplifies room bookings and guest management for dharmshalas. It offers real-time updates, secure payments, and multi-language support for a smooth and modern user experience.
 
 ## Getting Started
 
